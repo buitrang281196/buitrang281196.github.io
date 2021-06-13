@@ -400,7 +400,7 @@ function render() {
     particles = [];
     //
     text = new Text({
-        copy: 'Được không anh em =))'
+        copy: 'Chúc NY luôn luôn vui vẻ và xinh đẹp nhé!'
     });
     canvas.addEventListener('click', (e) => {
         const x = e.clientX;
