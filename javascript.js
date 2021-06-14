@@ -7,8 +7,8 @@ var audio1 = new Audio('sounds/happybirthday.mp3');
 window.addEventListener('click', () => {
 
     if (condition == true) {
-        audio.play();
-        audio.loop = true;
+        audio1.play();
+        audio1.loop = true;
         condition = false;
     };
 
